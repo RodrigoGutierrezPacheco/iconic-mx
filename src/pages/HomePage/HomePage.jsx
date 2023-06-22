@@ -19,7 +19,7 @@ function HomePage() {
 				<span className="nosotros-portada subtitle">Nosotros</span>
 			</div>
 			<div className="productos">
-				<h1 className="start title">Productos</h1>
+				<h1 className="start title-productos">Productos</h1>
 				<div className="marginb">
 					<img src="images/producto1.jpg" alt="" className="producto" />
 					<img src="images/producto1.jpg" alt="" className="producto" />

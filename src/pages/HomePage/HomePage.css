@@ -58,11 +58,15 @@
 }
 
 .title-descubre{
-	font-size: 4rem;
+	font-size: 3rem;
 }
 
 .subtitle{
 	font-size: 1.5rem;
+}
+
+.title-productos{
+	font-size: 3rem;
 }
 
 .producto{
@@ -104,7 +108,7 @@
 	background-color: black;
 	color: white;
 	border-radius: 1rem;
-	padding: 1rem;
+	padding: .5rem;
 }
 
 .start{
