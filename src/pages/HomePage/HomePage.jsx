@@ -33,6 +33,7 @@ function HomePage() {
 					<img src="images/lupa.png" alt="" className="png2 end" />
 				</div>
 				<h2 className="justify">Moda con historia. <br />Unete a nosotros y lleva un pedacido de significado en cada prenda.</h2>
+				<img src="images/ali.webp" alt="" className="img" />
 			</div>
     </div>
   );
