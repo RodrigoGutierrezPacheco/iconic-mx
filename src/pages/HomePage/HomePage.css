@@ -1,0 +1,120 @@
+.home{
+	background-color:#C9C9C9 ;
+	top: 0;
+	width: 100%;
+	position: absolute;
+}
+
+.bg-color-portada{
+	background-color: #C9C9C9;
+}
+
+.iconic-portada{
+	width: 50%;
+}
+
+.png{
+	width: 10%;
+}
+
+.png2{
+	width: 15%;
+	height: 15%;
+}
+
+.png1{
+	display: flex;
+	width: 5%;
+	margin-left: auto;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+	margin-top: 1rem;
+}
+
+.row-portada{
+	display: flex;
+	justify-items: center;
+	justify-content: space-between;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1rem;
+}
+
+.justify{
+	text-align: justify;
+	width: 80%;
+}
+
+.row-descubre{
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+.end{
+	margin-left: 5rem;
+	align-items: flex-end;
+}
+
+.title-descubre{
+	font-size: 4rem;
+}
+
+.subtitle{
+	font-size: 1.5rem;
+}
+
+.producto{
+	width: 40%;
+	border-radius: 1rem;
+	margin: .5rem;
+}
+
+.title{
+	font-size: 4rem;
+}
+
+.column-portada{
+	display: flex;
+	flex-direction: column;
+}
+
+.inicio-portada{
+	background-color: #D9D9D9;
+}
+
+.marginb{
+	margin-bottom: 1rem;
+}
+
+.tienda-portada{
+	background-color:#ECECEC ;
+}
+
+.margint{
+	margin-top: 1rem;
+}
+
+.nosotros-portada{
+	background-color:#FCFCFC ;
+}
+
+.productos{
+	background-color: black;
+	color: white;
+	border-radius: 1rem;
+	padding: 1rem;
+}
+
+.start{
+	display: flex;
+	justify-content: left;
+	margin-left: 1rem;
+}
+
+.descubre{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
