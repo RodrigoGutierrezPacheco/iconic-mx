@@ -1,12 +1,16 @@
+h2{
+	font-weight: 100;
+}
+
 .home{
-	background-color:#C9C9C9 ;
+	background-color:#CFDBD5 ;
 	top: 0;
 	width: 100%;
 	position: absolute;
 }
 
 .bg-color-portada{
-	background-color: #C9C9C9;
+	background-color: #ffffff;
 }
 
 .iconic-portada{
@@ -67,6 +71,51 @@
 
 .title-productos{
 	font-size: 3rem;
+}
+
+.marginl{
+	margin-left: 1rem;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.container img {
+  display: block;
+  width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+  height: auto;
+}
+
+.text {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 2rem;
+	width: 100%;
+}
+
+
+
+
+.png3{
+	width: 50%;
+	margin-bottom: 10rem;
+}
+
+.column{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
 
 .producto{

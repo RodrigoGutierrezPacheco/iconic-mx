@@ -33,7 +33,36 @@ function HomePage() {
 					<img src="images/lupa.png" alt="" className="png2 end" />
 				</div>
 				<h2 className="justify">Moda con historia. <br />Unete a nosotros y lleva un pedacido de significado en cada prenda.</h2>
-				<img src="images/ali.webp" alt="" className="img" />
+				<img src="images/ali.webp" alt="" className="img marginb" />
+			</div>
+			<div className="productos">
+				<div className="row-descubre">
+					<h1 className="title-descubre start justify">Nuestra inspiracion</h1>
+					<img src="images/inspiracion.png" alt="" className="png2" />
+				</div>
+				<h2 className="justify marginl">Nos inspiramos en momentos cruciales que marcaron a la humanidad. Descubre neustra coleccion que fusiona estilo y significado. Unete a nosotros y lleva contigo un pedacito de historia en cada prenda.</h2>
+				<img src="images/checo.jpg" alt="" className="img marginb" />
+			</div>
+			<div className="descubre">
+				<div className="row-descubre">
+					<h1 className="title-descubre start">Nosotros</h1>
+					<img src="images/nosotros.png" alt="" className="png2" />
+				</div>
+				<h2 className="justify maginl">En icon, hacemos moda que inspira. Descubre nuestra seleccoin de ropa de calidad y escilo excepcionales. Cada prenda esta disenada para expresar tu personalidad y confianza. Unete a nosotros y encuentra tu simbolo de estilo y empoderamiento.</h2>
+				<div className="column">
+				<div className="container">
+					<img src="images/circulo1.png" alt="Imagen de fondo" className="png3" />
+					<h2 className="text">10 <br /> Modelos diferentes.</h2>
+				</div>
+				<div className="container">
+					<img src="images/circulo2.png" alt="Imagen de fondo" className="png3" />
+					<h2 className="text">Moda Sustentable</h2>
+				</div>
+				<div className="container">
+					<img src="images/circulo3.png" alt="Imagen de fondo" className="png3" />
+					<h2 className="text">Moda para Todos</h2>
+				</div>
+				</div>
 			</div>
     </div>
   );
