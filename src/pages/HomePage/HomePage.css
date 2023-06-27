@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap');
 
-body{
+body, button{
 	font-family: 'Trocchi', serif;
 }
 
 h2{
 	font-weight: 100;
+}
+
+.listo{
+	text-align: justify;
+	width: 80%;
+	font-size: 3rem;
 }
 
 .marginl2{
@@ -69,6 +75,11 @@ h2{
 	margin-right: 1rem;
 	margin-bottom: 1rem;
 	margin-top: 1rem;
+}
+
+.row{
+	display: flex;
+	align-items: center;
 }
 
 .row-portada{
@@ -165,11 +176,33 @@ h2{
 	opacity: 0.3;
 }
 
+.png5{
+	width: 6%;
+	height: 6%;
+	margin-left: 1rem;
+}
+
+.button{
+	background-color: black;
+	color: white;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border: none;
+	font-size: 2rem;
+	border-radius: .5rem;
+}
+
 .png30{
 	width: 50%;
 	margin-bottom: 10rem;
 	opacity: 0.3;
 	transform: rotate(135deg);
+}
+
+.column4{
+	display: flex;
+	flex-direction: column;
 }
 
 .column{
