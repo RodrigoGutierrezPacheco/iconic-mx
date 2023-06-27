@@ -19,7 +19,7 @@ function HomePage() {
 				<span className="nosotros-portada subtitle">Nosotros</span>
 			</div>
 			<div className="productos">
-				<h1 className="start title-productos">Productos</h1>
+				<h1 className="start title-productos marginl">Productos</h1>
 				<div className="marginb">
 					<img src="images/producto1.jpg" alt="" className="producto" />
 					<img src="images/producto1.jpg" alt="" className="producto" />
@@ -40,12 +40,12 @@ function HomePage() {
 				</div>
 				<img src="images/ali.webp" alt="" className="img marginb" />
 			</div>
-			<div>
+			<div className="descubre">
 				<div className="row-descubre">
-					<h1 className="title-descubre marginl start justify">Nuestra inspiracion</h1>
+					<h1 className="title-nuestra">Nuestra Inspiracion</h1>
 				</div>
-				<h2 className="justify marginl">Nos inspiramos en momentos cruciales que marcaron a la humanidad. Descubre neustra coleccion que fusiona estilo y significado. Unete a nosotros y lleva contigo un pedacito de historia en cada prenda.</h2>
-				<img src="images/checo.jpg" alt="" className="img-checo marginb" />
+				<h2 className="justify">Nos inspiramos en momentos cruciales que marcaron a la humanidad. Descubre nuestra coleccion que fuiona estilo y significaco. unete a nosotros y lleva contivo un pedacito de historia en cada prenda.</h2>
+				<img src="images/checo.jpg" alt="" className="img marginb" />
 			</div>
 			<div className="descubre">
 				<div className="row-descubre">

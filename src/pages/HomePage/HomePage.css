@@ -1,5 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap');
+
+body{
+	font-family: 'Trocchi', serif;
+}
+
 h2{
 	font-weight: 100;
+}
+
+.marginl2{
+	margin-left: 1.5rem;
+}
+
+.title-nuestra{
+	font-size: 3rem;
+	text-align: justify;
 }
 
 .home{
