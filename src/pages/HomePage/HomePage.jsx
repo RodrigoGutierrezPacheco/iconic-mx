@@ -100,7 +100,7 @@ function HomePage() {
 					<img src="images/tw.png" alt="" className="png5" />
 				</div>
 			</div>
-			<div>
+			<div className="footer">
 				<h1>iconic 2023</h1>
 			</div>
     </div>

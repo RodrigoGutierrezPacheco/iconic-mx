@@ -99,6 +99,7 @@ h2{
 
 .en-icon{
 	width: 90%;
+	margin-bottom: 5rem;
 }
 
 .row-descubre{
@@ -191,6 +192,12 @@ h2{
 	border: none;
 	font-size: 2rem;
 	border-radius: .5rem;
+	margin-bottom: 5rem;
+	margin-top: 2rem;
+}
+
+.footer{
+	margin-top: 10rem;
 }
 
 .png30{
